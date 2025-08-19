@@ -1,8 +1,18 @@
 ---
 author:
-- Mithun Ayachit
+- Mithun Ayachit / Dave Cross
 title: Version History for TMDB
 ...
+
+# 1.2.3
+
+-   Fix version numbers broken in previous release
+-   Switch to davorg's repo
+
+# 1.2.2
+
+-   Fix \#7 Problem with \now\_playing\
+-   Add Pod tests
 
 # 1.2.1
 
