@@ -21,7 +21,7 @@ use Object::Tiny qw(apikey apiurl lang debug client encoder json);
 #######################
 # VERSION
 #######################
-our $VERSION = '1.2.3';
+our $VERSION = '1.3.0';
 
 #######################
 # PACKAGE VARIABLES
